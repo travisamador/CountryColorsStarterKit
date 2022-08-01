@@ -30,3 +30,8 @@ div{
 #Color3{
     background-color:blue;
 }
+
+#Flag{
+    height: 100px;
+    width: 200px;
+}
